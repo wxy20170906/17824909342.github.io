@@ -1,12 +1,17 @@
-- name: Link
+- name: 杨鑫
   image: https://atlinker.cn/avatar/avatar.png
   url: https://yangxin19970404.github.io/
-  describe: Yangxin's Blog
+  describe: 杨鑫的博客
 
-- name: Daily
+- name: 岳阳
   image: https://atlinker.cn/avatar/default.png
-  url: https：//linker.ml/daily/
-  describe: Daily
+  url: https：1978413822.github.io/
+  describe: 岳阳的博客
+
+ name: 齐健
+  image: https://atlinker.cn/avatar/default.png
+  url: https：//qijian160.github.io/
+  describe: 齐健的博客
 
 # - name: Links Name
 #  image: http://example.com/img.png
