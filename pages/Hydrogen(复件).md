@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于技术
+title: 关于生活
 tagline: Biu~
 ---
 
