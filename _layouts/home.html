@@ -31,7 +31,8 @@ layout: default
       </li>
   {% endfor %}
 {% endif %}
-    
+  
+    <div style="width: 100px; height: 100px"></div>
   {% for post in paginator.posts %}
     {% if post.stickie == true %}
       {% continue %}
