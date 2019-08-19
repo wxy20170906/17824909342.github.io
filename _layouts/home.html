@@ -32,7 +32,6 @@ layout: default
   {% endfor %}
 {% endif %}
   
-    <div style="width: 100px; height: 100px"></div>
   {% for post in paginator.posts %}
     {% if post.stickie == true %}
       {% continue %}
@@ -53,6 +52,7 @@ layout: default
 
     {% endfor %}
 
+    <div style="width: 100px; height: 100px; color:red"></div>
   </ul>
 
 </div>
