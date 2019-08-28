@@ -14,7 +14,7 @@ buildtime: "1514736000" #博客建立时的时间戳 可进入https://tool.lu/ti
 
 PJAX: true #启用PJAX，会与评论系统冲突（如不用评论系统建议开启）
 
-paginate: 8 #同时显示的最大文章数，超过自动分页
+paginate: 6 #同时显示的最大文章数，超过自动分页
 paginate_path: "page:num"
 
 background: https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=339573998,2636428390&fm=26&gp=0.jpg
